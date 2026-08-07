@@ -1,6 +1,6 @@
 {
   "name": "client",
- "homepage": "https://stmboysmangur.github.io/STM/",
+  "homepage": "https://stmboysmangur.github.io/STM/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
